@@ -1,5 +1,0 @@
-Neste arquivo você vai encontrar dois projetos básicos que você pode fazer com seu drone DJI-Tello
-
-O primeiro script em python, vai forncer acesso ao seu drone de modo no qual você pode controlar ele pelo computador utilizando uma interface gráfica 
-
-O segundo projeto é um voo autónomo em um quadrado de 60 cm por 60 cm, você pode alterar esses parâmetros no código 
